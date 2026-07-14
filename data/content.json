@@ -1,0 +1,12 @@
+{
+  "site": { "tagline": "Portfolio 2026" },
+  "hero": {
+    "taglineHighlight": "React, Django",
+    "freelanceNote": "Open to internships, full-stack development and cloud-native product opportunities.",
+    "availableLabel": "Available for opportunities",
+    "pills": ["React", "Django", "Cloud", "Generative AI"],
+    "specialistStat": { "value": "Cloud + AI", "label": "Focus" }
+  },
+  "interstitial": { "availabilityLabel": "Availability", "basedInLabel": "Based in", "statLabels": ["Live\ndeployments", "Product\nbuilds", "B.Tech\ngraduate"] },
+  "footer": { "eyebrow": "Available for the next build", "ctaLines": ["Let’s build", "something useful"], "ctaAccent": "together." }
+}

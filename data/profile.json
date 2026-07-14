@@ -1,0 +1,96 @@
+{
+  "name": { "first": "Mohamed", "last": "Maahir", "full": "Mohamed Maahir M" },
+  "email": "muhammedmaahir68@gmail.com",
+  "tagline": "Building thoughtful full-stack products with React, Django, Cloud and AI.",
+  "description": "Full-stack developer and B.Tech IT student building reliable web products from database design through cloud deployment.",
+  "roles": { "short": "Full-Stack Developer", "detailed": "React & Django Developer | Cloud & AI Enthusiast" },
+  "location": { "based": "Tamil Nadu, India", "availability": "India / Remote" },
+  "available": true,
+  "bio": "I am Mohamed Maahir, a third-year B.Tech IT student at SRM Institute of Science and Technology. I build end-to-end web products with React, Django, REST APIs and Docker, and have shipped live solutions for a college hospital and an NGO. My work moves comfortably from database design and useful interfaces to cloud deployment on AWS and Azure, with a growing focus on AI-powered experiences.",
+  "stats": [
+    { "value": "2", "label": "Live Deployments" },
+    { "value": "6+", "label": "Product Builds" },
+    { "value": "2028", "label": "B.Tech Graduate" }
+  ],
+  "skills": ["React", "Django", "Python", "REST APIs", "Docker", "AWS", "Azure", "JavaScript", "PostgreSQL", "TensorFlow", "Generative AI", "Git"],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Full-Stack Development Intern",
+      "company": "VDart",
+      "companyShort": "VDART",
+      "type": "Internship",
+      "location": "India",
+      "period": "2025",
+      "periodEnd": "2025",
+      "bullets": ["Built a real-time React and Vite chat application with responsive state handling.", "Deployed web applications and REST APIs to AWS and Azure.", "Contributed to an ML-powered autoscaling platform using Django, React, Docker and REST APIs."],
+      "desc": "Full-stack delivery, cloud deployment and practical infrastructure automation.",
+      "tech": ["React", "Vite", "Django", "Docker", "AWS", "Azure", "REST API"]
+    },
+    {
+      "id": 2,
+      "role": "Cloud Computing Intern",
+      "company": "VDart",
+      "companyShort": "VDART",
+      "type": "Internship",
+      "location": "India",
+      "period": "2025",
+      "periodEnd": "2025",
+      "bullets": ["Worked hands-on with AWS and Azure compute, storage, networking and deployment services.", "Deployed sample websites and web applications to live cloud environments.", "Completed AWS Training Academy coursework alongside practical portal management."],
+      "desc": "Hands-on cloud foundations across deployment, infrastructure and web delivery.",
+      "tech": ["AWS", "Azure", "Cloud Deployment", "Networking", "Web Apps"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Dental Booking System",
+      "subtitle": "Live Hospital Management Platform",
+      "type": "Full Stack",
+      "link": "https://github.com/muhammedmaahir68-droid",
+      "image": "/assets/dental-booking.jpeg",
+      "tech": ["React.js", "JSON Server", "Chart.js", "jsPDF", "REST API"],
+      "desc": "A live full-stack system for SRM College Hospital with patient booking, an admin dashboard, HOD analytics, live visualizations and downloadable case sheets."
+    },
+    {
+      "id": 2,
+      "title": "Anikum Karangal Portal",
+      "subtitle": "Live NGO Staff Management",
+      "type": "Full Stack",
+      "link": "https://github.com/muhammedmaahir68-droid",
+      "image": "/assets/anikum-karangal.jpeg",
+      "tech": ["React", "Vite", "Django REST API", "SQLite", "Docker"],
+      "desc": "A staff portal for an NGO covering attendance, salary, leave, increments and bonuses, backed by a Django API with clean Vite proxy integration."
+    },
+    {
+      "id": 3,
+      "title": "AI Chatbot",
+      "subtitle": "Ethical Conversational AI",
+      "type": "AI Product",
+      "link": "https://github.com/muhammedmaahir68-droid",
+      "image": "/assets/ai-chatbot.jpeg",
+      "tech": ["Python", "Django REST API", "React", "Generative AI"],
+      "desc": "An AI-powered chatbot built with a React client and Django REST API, designed with ethical AI principles from the Accenture Digital Skills program."
+    },
+    {
+      "id": 4,
+      "title": "5G Vehicle Simulation",
+      "subtitle": "VIT Chennai 5G Hackathon",
+      "type": "Innovation",
+      "link": "https://github.com/muhammedmaahir68-droid",
+      "image": "/assets/autonomous-vehicle.jpeg",
+      "tech": ["Python", "APIs", "Predictive Detection", "5G", "Cloud"],
+      "desc": "A 5G-enabled autonomous vehicle simulation with real-time API decisions, obstacle prediction and low-latency vehicle-to-cloud communication."
+    }
+  ],
+  "publications": [
+    { "id": 1, "title": "Dental Booking System", "platform": "Live Project", "year": "2026", "link": "https://github.com/muhammedmaahir68-droid", "desc": "Full-stack patient booking, admin operations and HOD analytics for SRM College Hospital." },
+    { "id": 2, "title": "Anikum Karangal Staff Portal", "platform": "Live Project", "year": "2026", "link": "https://github.com/muhammedmaahir68-droid", "desc": "A Django and React staff management product built for a working NGO." },
+    { "id": 3, "title": "AI Chatbot", "platform": "Personal Project", "year": "2026", "link": "https://github.com/muhammedmaahir68-droid", "desc": "Ethics-aware AI chat experience with a Django REST API and React interface." },
+    { "id": 4, "title": "5G Autonomous Vehicle Simulation", "platform": "Hackathon", "year": "2026", "link": "https://github.com/muhammedmaahir68-droid", "desc": "Real-time obstacle detection and cloud-connected autonomous vehicle simulation." }
+  ],
+  "socials": [
+    { "label": "GitHub", "href": "https://github.com/muhammedmaahir68-droid" },
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mohamed-maahir-m-a54300389" }
+  ]
+}
